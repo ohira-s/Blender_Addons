@@ -5,8 +5,11 @@
 #   Functions:
 #     - Create nodes for calculating cylindrical coordinates.
 #   Author: Shunsuke Ohira
+#   License: GPLv2
 #   Addon Version:
 #     0.1.0: 2025/03/05
+#          - Cylindrical coordinates
+#          - Polar coordinates
 ##############################################################
 import bpy
 from bpy.props import (
